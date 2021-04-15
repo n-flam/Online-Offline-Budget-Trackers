@@ -44,13 +44,13 @@ THEN that will be shown on the page, and added to their transaction history when
 
 
 # github
-https://dontforget
+https://github.com/n-flam/Online-Offline-Budget-Trackers
 
 # githubpages
-https://dontforget
+https://n-flam.github.io/Online-Offline-Budget-Tracker
 
 # HerokuDemo
-https://workout-tracker-dontforget
+https://on-off-budg-tracker.herokuapp.com/
 
 # Mockup
 ![Alt text](https://github.com/n-flam/Online-Offline-Budget-Trackers/blob/master/mockup/Budget%20Tracker.png)
