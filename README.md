@@ -1,5 +1,5 @@
 <h1 align="center">Online/Offline Budget Trackers</h1>
-<h4 align="center">Node Express Handlebars</h4>
+<h4 align="center">Technologies Used</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
