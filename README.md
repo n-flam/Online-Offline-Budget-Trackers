@@ -47,7 +47,7 @@ THEN that will be shown on the page, and added to their transaction history when
 https://github.com/n-flam/Online-Offline-Budget-Trackers
 
 # githubpages
-https://n-flam.github.io/Online-Offline-Budget-Tracker
+https://n-flam.github.io/Online-Offline-Budget-Trackers/
 
 # HerokuDemo
 https://on-off-budg-tracker.herokuapp.com/
