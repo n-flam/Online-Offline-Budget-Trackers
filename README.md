@@ -53,4 +53,4 @@ https://dontforget
 https://workout-tracker-dontforget
 
 # Mockup
-![Alt text](https:dontforget)
+![Alt text](https://github.com/n-flam/Online-Offline-Budget-Trackers/blob/master/mockup/Budget%20Tracker.png)
