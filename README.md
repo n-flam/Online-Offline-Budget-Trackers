@@ -1,6 +1,16 @@
-# Online/Offline Budget Trackers
+<h1 align="center">Online/Offline Budget Trackers</h1>
+<h4 align="center">Node Express Handlebars</h4>
 
-## Task
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/MongoDB-blue"  />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-express-red" >
+    <img src="https://img.shields.io/badge/-jason-lightgrey" />
+    <img src="https://img.shields.io/badge/-heroku-orange" />
+</p>
+
+## Objective
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
